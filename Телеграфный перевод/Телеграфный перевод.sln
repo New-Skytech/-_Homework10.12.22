@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Телеграфный перевод", "Телеграфный перевод\Телеграфный перевод.vcxproj", "{AF2E18F8-2A49-47B5-B5FC-8098B2C9F80D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF2E18F8-2A49-47B5-B5FC-8098B2C9F80D}.Debug|x64.ActiveCfg = Debug|x64
+		{AF2E18F8-2A49-47B5-B5FC-8098B2C9F80D}.Debug|x64.Build.0 = Debug|x64
+		{AF2E18F8-2A49-47B5-B5FC-8098B2C9F80D}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF2E18F8-2A49-47B5-B5FC-8098B2C9F80D}.Debug|x86.Build.0 = Debug|Win32
+		{AF2E18F8-2A49-47B5-B5FC-8098B2C9F80D}.Release|x64.ActiveCfg = Release|x64
+		{AF2E18F8-2A49-47B5-B5FC-8098B2C9F80D}.Release|x64.Build.0 = Release|x64
+		{AF2E18F8-2A49-47B5-B5FC-8098B2C9F80D}.Release|x86.ActiveCfg = Release|Win32
+		{AF2E18F8-2A49-47B5-B5FC-8098B2C9F80D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C63BEAF2-349D-4639-BE78-37283FA6FA4F}
+	EndGlobalSection
+EndGlobal

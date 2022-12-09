@@ -1,0 +1,4 @@
+﻿  strings.cpp
+C:\Users\n1249\source\repos\strings\strings\strings.cpp(19,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\n1249\source\repos\strings\strings\strings.cpp(22,37): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  strings.vcxproj -> C:\Users\n1249\source\repos\strings\x64\Debug\strings.exe
